@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ランドリー",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T18:28:58.976077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ランドリー",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/01_ランドリー_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コイン・ランドリー・ブルース",
+      "artist": "鈴木雅之",
+      "has_synced": false,
+      "path": "select/02_コイン・ランドリー・ブルース_鈴木雅之.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランドリー",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_ランドリー_BaseBallBear.txt"
+    }
+  ]
+}
